@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+}
+#div_form{
+    margin-right: 55%;
+    margin-left: 40%;
+    display: inline;
+    position: absolute;
+}
+#todo_list{
+    position: relative;
+    right: 15%;
+}
+
+
+#div_form button{
+    color: crimson;
+    display: inline;
+}
+
+hr{
+    color: crimson;
+    width: auto;
+}
+
+.liStyle{
+    color: darkslategrey;
+    font-size: 18px;
+    font-style: italic;
+    user-select: none
+}
+
+.newLiStyle{
+    color: darkslategrey;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: line-through;
+    user-select: none
+}
